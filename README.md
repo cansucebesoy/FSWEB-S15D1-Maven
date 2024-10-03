@@ -25,7 +25,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  
 ### Mobile Phone
 
-* org.example.mobile paketi altında ```MobilePhone``` ve ```Contact``` isimli bir sınıf oluşturacağız.
+* org.example.mobile.MobilePhone paketi altında ```MobilePhone``` ve ```Contact``` isimli bir sınıf oluşturacağız.
 * ```MobilePhone``` sınıfını 2 tane field tutması lazım. Bir tanesi ```myNumber``` isminde ve String tipinde, ```myContacts``` isminde ve Contact ArrayList'i olmalı. 2 field içinde getter methodu tanımlayınız.
 * Constructor metodu myNumber değerini doldurmalı.
 * 7 tane metodumuz olmalı
